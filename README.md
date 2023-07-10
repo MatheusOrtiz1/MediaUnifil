@@ -1,2 +1,2 @@
 # MediaUnifil
-Calculadora de média Unifil feito em python. biblioteca PySimpleGUI
+Calculadora de média Unifil feito em python. Biblioteca PySimpleGUI
